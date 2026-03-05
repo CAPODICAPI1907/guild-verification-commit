@@ -1,2 +1,3 @@
-# guild-verification-commit
-Guild.xyz verification commit
+Guild.xyz verification
+Timestamp: 2026-03-05T22:45:48.457Z
+Commit: Add multi-language support
